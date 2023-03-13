@@ -13,7 +13,7 @@ function Navbar() {
 
   return (
     <div className=' flex justify-between px-4 mx-auto max-w-[1640px] h-28 items-center text-2xl mt-6  '>
-            <img className=' h-16 md:h-24  ' src="public\pretty_baked_logo.svg" alt="Pretty Baked logo" />
+            <img className=' h-16 md:h-24  ' src={require("./public/pretty_baked_logo.svg")} alt="Pretty Baked logo" />
         
         
             <ul className=' items-center hidden md:flex '>
