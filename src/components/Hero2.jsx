@@ -13,7 +13,7 @@ const Hero2 = () => {
             
         </div>
         <div className=' min-w-[50%] flex items-center justify-center'>
-            <img className=' md:rotate-90 rounded-[6%]  max-h-[60vh]' src="src\assets\prettybaked.jpg" alt=" choclate roasted hazelnut bread" />
+            <img className=' md:rotate-90 rounded-[6%]  max-h-[60vh]' src="/prettybaked.jpg" alt=" choclate roasted hazelnut bread" />
         </div>
     </div>
   )
